@@ -1,0 +1,28 @@
+2025/12/16 07:19:13 Initializing project github.com/EmilioCliff/les-titans
+2025/12/16 07:19:13 Creating directory: /Users/emiliocliff/projects/les-titans/backend/internal
+2025/12/16 07:19:13 Creating empty directory: /Users/emiliocliff/projects/les-titans/backend/internal/handlers
+2025/12/16 07:19:13 Creating empty directory: /Users/emiliocliff/projects/les-titans/backend/internal/repository
+2025/12/16 07:19:13 Creating empty directory: /Users/emiliocliff/projects/les-titans/backend/internal/mock
+2025/12/16 07:19:13 Creating empty directory: /Users/emiliocliff/projects/les-titans/backend/internal/services
+2025/12/16 07:19:13 Creating directory: /Users/emiliocliff/projects/les-titans/backend/internal/postgres
+2025/12/16 07:19:13 Creating empty directory: /Users/emiliocliff/projects/les-titans/backend/internal/postgres/queries
+2025/12/16 07:19:13 Creating empty directory: /Users/emiliocliff/projects/les-titans/backend/internal/postgres/mock
+2025/12/16 07:19:13 Creating empty directory: /Users/emiliocliff/projects/les-titans/backend/internal/postgres/generated
+2025/12/16 07:19:13 Creating empty directory: /Users/emiliocliff/projects/les-titans/backend/internal/postgres/migrations
+2025/12/16 07:19:13 Creating directory: /Users/emiliocliff/projects/les-titans/backend/pkg
+2025/12/16 07:19:13 Creating file: /Users/emiliocliff/projects/les-titans/backend/pkg/errors.go
+2025/12/16 07:19:13 Creating file: /Users/emiliocliff/projects/les-titans/backend/README.md
+2025/12/16 07:19:13 Creating file: /Users/emiliocliff/projects/les-titans/backend/.gitignore
+2025/12/16 07:19:13 Creating file: /Users/emiliocliff/projects/les-titans/backend/Makefile
+2025/12/16 07:19:13 Creating directory: /Users/emiliocliff/projects/les-titans/backend/.envs
+2025/12/16 07:19:13 Creating directory: /Users/emiliocliff/projects/les-titans/backend/.envs/.local
+2025/12/16 07:19:13 Creating file: /Users/emiliocliff/projects/les-titans/backend/.envs/.local/config.env
+2025/12/16 07:19:13 Creating directory: /Users/emiliocliff/projects/les-titans/backend/.envs/configs
+2025/12/16 07:19:13 Creating file: /Users/emiliocliff/projects/les-titans/backend/.envs/configs/sqlc.yaml
+2025/12/16 07:19:13 Creating directory: /Users/emiliocliff/projects/les-titans/backend/cmd
+2025/12/16 07:19:13 Creating directory: /Users/emiliocliff/projects/les-titans/backend/cmd/server
+2025/12/16 07:19:13 Creating file: /Users/emiliocliff/projects/les-titans/backend/cmd/server/main.go
+2025/12/16 07:19:13 Creating directory: /Users/emiliocliff/projects/les-titans/backend/cmd/cli
+2025/12/16 07:19:13 Creating file: /Users/emiliocliff/projects/les-titans/backend/cmd/cli/main.go
+2025/12/16 07:19:13 Initializing go module...
+2025/12/16 07:19:13 Initializing git repository...
